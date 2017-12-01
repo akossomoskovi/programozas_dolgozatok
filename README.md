@@ -1,0 +1,2 @@
+# programozas_dolgozatok
+elso_progi_dogam
